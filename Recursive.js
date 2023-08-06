@@ -18,4 +18,8 @@ function isPalindromeRecursive(word) {
   console.log(isPalindromeRecursive("php"));      // true
   console.log(isPalindromeRecursive("radar"));    // true
   console.log(isPalindromeRecursive("foot"));    // false
+  console.log(isPalindromeRecursive("hey"));    // false
+  console.log(isPalindromeRecursive("NON"));    // true
+
+
   
